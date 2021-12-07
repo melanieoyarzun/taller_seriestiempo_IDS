@@ -19,7 +19,7 @@ Martes 7 de diciembre- 18 a 21 hrs
 
 2. Describir exploratoriamente una serie temporal, para extraer características claves del fenómeno que permita su modelamiento.
 
-3. Modelar predictivamente series temporales, evaluando alternativas.
+3. Modelar series temporales, evaluando alternativas.
 
 ## Metodología:
 
