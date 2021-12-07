@@ -26,3 +26,5 @@ Martes 7 de diciembre- 18 a 21 hrs
 El taller se organizará en tres bloques, respondiendo cada uno a uno de los objetivos de aprendizaje descritos anteriormente. En cada bloque se combinará una exposición de los principales contenidos, junto al desarrollo de ejemplos pertinentes en codigo python, con el notebook que acompaña a cada sesión. 
 
 En este repositorio, se encuentran las slides de los contenidos, los notebooks y las bases de datos relevantes.
+
+![Cuidado al estimar](slide_figuras/spurius.png)
