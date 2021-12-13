@@ -15,7 +15,7 @@ Martes 7 de diciembre- 18 a 21 hrs
 
 2. Describir exploratoriamente una serie temporal, para extraer características claves del fenómeno que permita su modelamiento. [Aplicado en Bloque 2](Notebook-taller-bloque2.ipynb)
 
-3. Modelar series temporales, evaluando alternativas. 
+3. Modelar series temporales, evaluando alternativas. [Aplicado en Bloque 2](Notebook-taller-bloque2.ipynb)
 
 ## Metodología:
 
@@ -25,7 +25,7 @@ En este repositorio, se encuentran los contenidos, los notebooks y las bases de 
 
 ## Evaluación:
 
-Este taller tiene una evaluación con contra de 1 a 7, en realizar la actividad descrita en [Notebook aplicacion](Notebook-taller-Aplicacion.ipynb).
+Este taller tiene una evaluación con contra de 1 a 7, en realizar la actividad descrita en [Notebook aplicación](Notebook-taller-Aplicacion.ipynb).
 
 Este consiste en usar datos de la API del Banco Mundial para extraer una serie de tiempo de información real de un país a elección y realizar sobre ella el formateo de los datos y un analisis aplicando los contenidos revisados en el taller.
 
