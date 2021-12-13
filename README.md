@@ -31,8 +31,9 @@ Este consiste en usar datos de la API del Banco Mundial para extraer una serie d
 
 Se desarrolla de manera individual o en grupos de hasta 3 personas.
 
+---
 
-## Guia: Acceso y edición del repositorio
+## Guía: Acceso y edición del repositorio
 
 Para el trabajo en la sesión, se recomienda trabajar en una copia personal de este repositorio. Para esto, recomiendo crear un "fork" en tu propia cuenta de github (esto para poder editarlo facilmente y también poder actualizarlo facilmente).
 
