@@ -74,7 +74,7 @@ Para el trabajo en la sesión, se recomienda trabajar en una copia personal de e
 
 **NOTA IMPORTANTE:**
 
-En colab, los accesos directos a las dependencias de carpeta puede que no funcionen. Si es asi, cada vez que se cargan datos hay una segunda ocpion de acceso que esta comentada.
+En colab, los accesos directos a las dependencias de carpeta puede que no funcionen. Si es así, cada vez que se cargan datos hay una segunda opción de acceso que esta comentada.
 
 Basta con comentar la que esta a ka carpeta y descomentar la con acceso web.
 
@@ -94,7 +94,7 @@ DJIA = pd.read_csv('data/DJIA.csv', parse_dates=['DATE'], na_values='.').dropna(
 DJIA.info()
 ```
 
-Version que si funcionaría:
+Versión que si funcionaría:
 
 ```
 #cargamos los datos
